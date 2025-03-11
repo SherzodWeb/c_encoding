@@ -1,3 +1,4 @@
 fastai
 pandas
 category_encoders
+openpyxl
